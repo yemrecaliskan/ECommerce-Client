@@ -1,0 +1,9 @@
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #919191;
+  color: white;
+}
+/*# sourceMappingURL=sidebar.component.css.map */
